@@ -1,0 +1,5 @@
+Variable,Description,Type
+cm,Specimen age/depth proxy,Continuous
+area,Shell area,Continuous
+Feret,Maximum shell diameter,Continuous
+Perimeter,Shell perimeter,Continuous
